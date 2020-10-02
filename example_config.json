@@ -1,0 +1,10 @@
+{
+	"prefix": "시로야",
+	"token": "토큰",
+	"i": "https://discord.com/api/oauth2/authorize?client_id=759641419378982922&permissions=8&scope=bot",
+	"green": "#91d18b",
+	"red": "#ff4b5c",
+	"accept_emoji": "accept emoji id",
+	"deny_emoji": "deny emoji id",
+	"owners": ["bot owner's id"]
+}
